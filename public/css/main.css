@@ -51,10 +51,6 @@ a {
     text-decoration: none;
 }
 
-.links {
-    text-align: center;
-}
-
 .links a {
     padding: 0 0.2em 0 0.2em;
 }
@@ -62,6 +58,8 @@ a {
 header.main {
    max-width: 50%;
    height: 10rem;
+
+   text-align: center;
 }
 
 header.main h1 {
